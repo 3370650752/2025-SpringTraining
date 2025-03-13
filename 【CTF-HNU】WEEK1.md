@@ -27,5 +27,19 @@ share: "true"
 
 发现有一个/robots.txt文件，在网页进行访问,拿到flag位置![Pasted image 20250313090213](https://github.com/user-attachments/assets/4ba7c263-687a-4ff4-869e-594ca587ab74)
 
+## NSSCTF-RCE-LAB
+### L1
+![image](https://github.com/user-attachments/assets/cadbb114-d19e-4fcf-972c-40a89f1a0e3f)
+![image](https://github.com/user-attachments/assets/48b4da1f-9020-4d87-9c43-72892c7d3273)
+### L3 命令执行
+![image](https://github.com/user-attachments/assets/39ee3c2b-3d4c-45c4-af3d-79708c1e0552)
+![image](https://github.com/user-attachments/assets/1ab454df-c74b-4e6e-a697-850c94ec6fe9)
+### L4 shell运算符
+
+### L7 空格过滤
+https://www.nssctf.cn/note/set/11177
+
+
+
 
 
