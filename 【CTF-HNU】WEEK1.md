@@ -34,11 +34,9 @@ share: "true"
 ### L3 命令执行
 ![image](https://github.com/user-attachments/assets/39ee3c2b-3d4c-45c4-af3d-79708c1e0552)
 ![image](https://github.com/user-attachments/assets/1ab454df-c74b-4e6e-a697-850c94ec6fe9)
-### L4 shell运算符
-
-### L7 空格过滤
-https://www.nssctf.cn/note/set/11177
-
+### L4 shell运算符 https://www.nssctf.cn/note/set/11176
+### L7 空格过滤 https://www.nssctf.cn/note/set/11177
+### L5 黑名单过滤 https://www.nssctf.cn/note/set/11180
 
 
 
